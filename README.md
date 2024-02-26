@@ -13,7 +13,7 @@ ChatGPT AI Pro Extension for Magento 2 increases website productivity by providi
 * Price= $99
   
 # Compatibility with Magento Versions
-Magento 2.4.X (CE, EE, ECE)
+Magento 2.2.X to 2.4.6 (CE, EE, ECE)
 
 # Installing Via Composer
 
