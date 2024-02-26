@@ -60,6 +60,22 @@ Specify project dependencies using a JSON file & leave everything to Composer.
 
 ![API-Configuration-3-1024x587](https://github.com/patelanny/chatgpt-ai-pro-magento-2/assets/121279820/c6fb769c-0a56-4be0-adc6-797736643c32)
 
+# Benefits of Magento 2 ChatGPT AI Extension [PRO]
+1. ChatGPT can Generate Short & Long Product Description.
+
+2. AI-generated Content that Helps in SEO Rankings.
+
+3. Auto-generate Image ALT Text for Image Optimization.
+
+4. Quickly Generate Metatags of Website Pages & Products.
+
+5. Ser Description Length.
+
+6. Generate SEO-friendly Content Using OpenAI.
+
+7. Save Time & Effort for SEO Content Generation.
+
+8. Supports Multilingual functionality for Product Content.
 
 # Support
 Write to us at our <a href="https://magecomp.com/support/">Support Portal</a> for queries about our Magento 2 extensions or services.
